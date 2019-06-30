@@ -1,5 +1,5 @@
 /**
- * TODO: Debes rellenar este paquete con tus clases
+ * Created classes to make web service work correctly
  */
 package com.idealista.application;
 
